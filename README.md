@@ -6,9 +6,10 @@ yarn add @antipodes-medical/stylelint-config-antipodes -D
 
 # Usage
 
+`.stylelintrc.json`
 ```json
 {
-  "extends": "stylelint-config-antipodes"
+  "extends": "@antipodes-medical/stylelint-config-antipodes"
 }
 ```
 
@@ -20,7 +21,7 @@ For example, to turn off the `scss/at-if-no-null` rule:
 
 ```json
 {
-  "extends": "stylelint-config-antipodes",
+  "extends": "@antipodes-medical/stylelint-config-antipodes",
   "rules": {
     "scss/at-if-no-null": null
   }
