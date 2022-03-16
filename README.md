@@ -17,8 +17,8 @@ yarn add @antipodes-medical/stylelint-config-antipodes -D
 ```json
 {
   "scripts": {
-    "lint": "npx stylelint '**/*.scss'",
-    "lint:fix": "npx stylelint '**/*.scss' --fix"
+    "stylelint": "npx stylelint '**/*.scss'",
+    "stylelint:fix": "npx stylelint '**/*.scss' --fix"
   }
 }
 ```
