@@ -1,0 +1,17 @@
+{
+  "name": "stylelint-config-antipodes",
+  "version": "1.0.0",
+  "author": "Théo Benoit <theo@antipodesmultimedia.com>",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "stylelint": "^14.0.0"
+  },
+  "dependencies": {
+    "stylelint-config-recommended-scss": "^5.0.2",
+    "stylelint-order": "^5.0.0",
+    "stylelint-selector-bem-pattern": "^2.1.1"
+  }
+}
