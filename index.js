@@ -47,6 +47,44 @@ module.exports = {
     "media-feature-name-no-vendor-prefix": true,
     "media-feature-colon-space-before": "never",
     "media-feature-colon-space-after": "always",
+    "comment-no-empty": true,
+    "selector-combinator-space-before": "always",
+    "rule-empty-line-before": [
+      "always-multi-line",
+      {
+        "except": [
+          "first-nested"
+        ]
+      }
+    ],
+    "function-calc-no-unspaced-operator": true,
+    "function-linear-gradient-no-nonstandard-direction": true,
+    "function-no-unknown": true,
+    "unit-no-unknown": true,
+    "custom-property-no-missing-var-function": true,
+    "property-no-unknown": true,
+    "declaration-block-no-duplicate-custom-properties": true,
+    "declaration-block-no-duplicate-properties": true,
+    "block-no-empty": true,
+    "no-empty-source": true,
+    "shorthand-property-no-redundant-values": true,
+    "selector-max-compound-selectors": 3,
+    "max-nesting-depth": 2,
+    "value-keyword-case": "lower",
+    "function-name-case": "lower",
+    "selector-type-case": "lower",
+    "comment-whitespace-inside": "always",
+    "function-parentheses-newline-inside": "always-multi-line",
+    "function-max-empty-lines": 0,
+    "function-parentheses-space-inside": "never",
+    "function-whitespace-after": "always",
+    "unction-comma-space-before": "always-single-line",
+    "function-comma-space-after": "always",
+    "declaration-bang-space-after": "never",
+    "declaration-bang-space-before": "never",
+    "declaration-colon-newline-after": "always-multi-line",
+    "block-closing-brace-empty-line-before": "never",
+    "block-closing-brace-newline-after": "always",
     "plugin/selector-bem-pattern": {
       "componentName": "[A-Z]+",
       "componentSelectors": {
