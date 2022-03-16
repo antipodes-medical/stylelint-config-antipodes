@@ -13,6 +13,16 @@ yarn add @antipodes-medical/stylelint-config-antipodes -D
 }
 ```
 
+`package.json`
+```json
+{
+  "scripts": {
+    "lint": "npx stylelint '**/*.scss'",
+    "lint:fix": "npx stylelint '**/*.scss' --fix"
+  }
+}
+```
+
 # Extending the config
 
 Simply add a `"rules"` key to your config, then add your overrides and additions there.
