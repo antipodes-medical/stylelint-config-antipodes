@@ -1,7 +1,7 @@
 # Installation
 
 ```bash
-yarn add @antipodes-medical/stylelint-config-antipodes
+yarn add @antipodes-medical/stylelint-config-antipodes -D
 ```
 
 # Usage
