@@ -78,7 +78,7 @@ module.exports = {
     "function-max-empty-lines": 0,
     "function-parentheses-space-inside": "never",
     "function-whitespace-after": "always",
-    "function-comma-space-before": "always-single-line",
+    "function-comma-space-before": "never-single-line",
     "function-comma-space-after": "always",
     "declaration-bang-space-after": "never",
     "declaration-bang-space-before": "never",
