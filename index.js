@@ -10,7 +10,7 @@ module.exports = {
     "max-empty-lines": 1,
     "selector-list-comma-newline-after": "always",
     "color-no-invalid-hex": true,
-    "font-family-no-duplicate-names": "true",
+    "font-family-no-duplicate-names": true,
     "named-grid-areas-no-invalid": true,
     "indentation": 2,
     "string-quotes": "single",
