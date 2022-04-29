@@ -68,7 +68,7 @@ module.exports = {
     "block-no-empty": true,
     "no-empty-source": true,
     "shorthand-property-no-redundant-values": true,
-    "selector-max-compound-selectors": 3,
+    "selector-max-compound-selectors": 4,
     "max-nesting-depth": 2,
     "value-keyword-case": "lower",
     "function-name-case": "lower",
