@@ -9,6 +9,7 @@ module.exports = {
   "rules": {
     "max-empty-lines": 1,
     "selector-list-comma-newline-after": "always",
+    "block-opening-brace-space-before": "always",
     "color-no-invalid-hex": true,
     "font-family-no-duplicate-names": true,
     "named-grid-areas-no-invalid": true,
