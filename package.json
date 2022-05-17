@@ -1,6 +1,6 @@
 {
   "name": "@antipodes-medical/stylelint-config-antipodes",
-  "version": "1.3.0",
+  "version": "2.0.1",
   "author": "Théo Benoit <theo@antipodesmultimedia.com>",
   "main": "index.js",
   "files": [
