@@ -229,15 +229,6 @@ module.exports = {
         ]
       }
     ],
-    "scss/dollar-variable-first-in-block": [
-      true,
-      {
-        "ignore": [
-          "comments",
-          "imports"
-        ]
-      }
-    ],
     "scss/dollar-variable-no-missing-interpolation": true,
     "scss/double-slash-comment-empty-line-before": [
       "always",
