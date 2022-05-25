@@ -200,6 +200,7 @@ module.exports = {
     "scss/at-import-partial-extension": "never",
     "scss/at-mixin-argumentless-call-parentheses": "always",
     "scss/at-mixin-parentheses-space-before": "never",
+    "scss/at-mixin-named-arguments": "always",
     "scss/at-use-no-unnamespaced": true,
     "scss/dollar-variable-colon-newline-after": "always-multi-line",
     "scss/dollar-variable-colon-space-after": "always-single-line",
