@@ -100,8 +100,8 @@ module.exports = {
       "dollar-variables",
       "custom-properties",
       "declarations",
-      "rules",
-      "at-rules"
+      "at-rules",
+      "rules"
     ],
     "order/properties-order": [
       "grid-area",
